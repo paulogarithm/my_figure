@@ -51,5 +51,5 @@ function figure_style(nb, speed=100) {
     }
 }
 
-// figure_style(100)
-figure_style(20, 500)
+//figure_show(3)
+figure_style(10, 500)
