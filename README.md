@@ -8,7 +8,7 @@ Figure Show function is used to show the figure with n points, for example if `n
 var n = 3;
 figure_show(n);
 ```
-<img src="mon_image.png">
+<img src="images/mon_image.png">
 
 ### Figure Style
 Figure Style is the function that 
